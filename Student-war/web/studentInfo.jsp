@@ -103,6 +103,8 @@
             </c:forEach> 
         </table>
         <br>
+        
+        <h1>Grades Information</h1>
         <form action="studentCourseServlet" method="POST">
             <table>
                 <tr>
